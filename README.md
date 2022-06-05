@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
 - E-mail - ygorm27@gmail.com 
 - Instagram - @ygor.sednem
-- 
+
 
 <!---
 MendesYgor/MendesYgor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
