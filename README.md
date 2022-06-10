@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Ygor Mendes (@MendesYgor)
+Olá, eu sou o Ygor Mendes!
+
 - 👀 I’m interested in Programming. I want to become a Full Stack Programmer...
 - 🌱 I’m currently learning Programming Logic, JavaScrpit, HTML and CSS.
 - 💞️ I’m looking to collaborate on Learning Programming or anything else within my power...
